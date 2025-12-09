@@ -1,0 +1,1 @@
+console.log("this is assigmrnt of day 1");
